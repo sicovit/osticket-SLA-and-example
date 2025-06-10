@@ -46,6 +46,6 @@ To configure SLAs (Service Level Agreements), go to Admin Panel > Manage > SLA P
 <img src="https://github.com/user-attachments/assets/4ec0953f-8837-4a6a-90d6-e258c94b4258" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Group policies or staff roles in osTicket control who can see and act on certain tickets. This setup helps ensure all support requests are handled within the expected time frame, keeping things organized and accountable.
+Group policies related to the help topics in osTicket control who can see and act on certain tickets. This setup helps ensure all support requests are handled within the expected time frame, keeping things organized and accountable.
 </p>
 <br />
